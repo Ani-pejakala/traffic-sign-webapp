@@ -28,4 +28,4 @@ tf-estimator-nightly==1.14.0.dev2019030115
 Werkzeug==0.16.0
 wincertstore==0.2
 WTForms==2.2.1
-Pillow==7.2.0
+Pillow==8.3.2
